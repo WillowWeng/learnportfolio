@@ -1,5 +1,8 @@
 # Work Portfolio
 
+#### Programming Languages: Python, SQL, R, VBA, HTML, JavaScript
+#### Data Visualization: PowerBi, Tableau, Kibana
+
 ## Eudcation
 - M.S., Business Analytics | The University of Washington (_June 2024_)
 - MBA, Risk Management | The University of Nebraska at Omaha (_May 2023_)
