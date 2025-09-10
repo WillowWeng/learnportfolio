@@ -2,8 +2,3 @@ theme: jekyll-theme-minimal
 title: Willow Weng
 logo: /img/headshot_circle.png
 description: Welcome to my portfolio and personal projects
-
-social_links:
-  github: https://github.com/WillowWeng
-
-google_analytics: UA-XXXXXXXXX-X
