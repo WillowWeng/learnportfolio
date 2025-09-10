@@ -1,6 +1,6 @@
 # Work Portfolio
 
-<a href="/assets/resume.pdf" download style="padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+<a href="https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/assets/resume.pdf" download style="padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
 📄 Download My Resume
 </a>
 
