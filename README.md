@@ -1,7 +1,7 @@
 # Work Portfolio
 
 #### Programming Languages: Python, SQL, R, VBA, HTML, JavaScript
-#### Data Visualization: PowerBi, Tableau, Kibana
+#### Data Visualization: PowerBi, Tableau, Kibana, Orange
 
 ## Eudcation
 - M.S., Business Analytics | The University of Washington (_June 2024_)
@@ -16,8 +16,10 @@
 -	Extracted workforce and order data from ERP system using Python, providing data-driven strategic insights to stakeholders to enhance profitability including cost allocation, operational time, congestion rate, etc. 
 
 **Marketing Analyst @ Verve AI (_August 2024 - January 2025_)**
-- detail 1
-- detail 2
+-	Optimizes email marketing campaigns through A/B testing by refining content, achieving a 17% increase in click-through rates.
+-	Performs web scripting on social media sites such as LinkedIn, Instagram, Reddit, Pinterest, and TikTok and applied text analysis to backend user data in Python to understand customer preferences and demand that led to the acquisition of 1,000+ new users.
+-	Implements SEO strategies, including keyword research, on-page optimization, and backlink building through outreach and content partnerships, to optimize website content and increase organic traffic by 30%. 
+-	Uses SQL to extract and transform data, defining KPIs and creating Power BI dashboards to track business performance.
 
 **Financial Analyst @ The University of Washington (_June 2023 - May 2024_)**
 -	Retrieved data from ERP system using SQL with 30% improved runtime efficiency to analyze financial metrics and identify risks.
@@ -32,8 +34,10 @@
 -	Wrote 9 high level strategic reports and built 6 financial models (Net Present Value, Internal Rate of Return, Payback Period, etc.) for entrepreneurs, emphasizing market and financial risk with strategies aimed at reducing operational risk by 40%.
 
 **Financial Analyst Intern @ JZW International Development, LLC (_January 2021 - May 2021_)**
-- detail 1
-- detail 2
+-	Automated ETL pipeline using SQL and Excel to support accounting department in bookkeeping and managing order data sourced from QuickBooks for FY20 and FY21, replacing manual data entry and improving accuracy for financial reporting.
+-	Secured 2,000+ orders by strategically participating in Q1’21 bidding, directing successful orders to global vendors for fulfillment.
+-	Utilized predictive models (ARIMA, Winters) in Python with ABC classification to forecast order volume with MAPE under 10%, optimizing economic order quantity and reorder points to reduce inventory cost by 15% and cut customer waiting periods by 30%.
+-	Developed Power BI dashboards to access vendor performance, focusing on lead time and reliability to improve sourcing process.
 
 ## Projects
 ### Obesity Level Prediction
