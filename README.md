@@ -1,5 +1,9 @@
 # Work Portfolio
 
+<a href="/assets/resume.pdf" download style="padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+📄 Download My Resume
+</a>
+
 #### Programming Languages: Python, SQL, R, VBA, HTML, JavaScript
 #### Data Visualization: PowerBi, Tableau, Kibana, Orange
 
