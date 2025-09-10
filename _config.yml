@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Willow Weng
 logo: /img/headshot_circle.png
 description: I am studying how to make a Github portfolio!
-#show_downloads: true
+show_downloads: true
