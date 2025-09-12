@@ -43,7 +43,14 @@
 -	Utilized predictive models (ARIMA, Winters) in Python with ABC classification to forecast order volume with MAPE under 10%, optimizing economic order quantity and reorder points to reduce inventory cost by 15% and cut customer waiting periods by 30%.
 -	Developed Power BI dashboards to access vendor performance, focusing on lead time and reliability to improve sourcing process.
 
-## Projects
+## Selected Projects
+### Profitability Analysis of Waybill Attachment
+IM Global LLC | Jun 2025 - August 2025 
+**Background:** To cope with rising U.S. tariffs that caused customer attrition, a new Waybill Attachment service was launched. The Business Development Team asked to reduce operational costs, as the new business had not yet achieved satisfactory profitability.
+**Action:** Built an ETL pipeline in Python to advance the data running efficiency, implemented a VBA-based CICO system to monitor workforce, and developed a Holt-Winters model to dynamically forecast monthly order volumes and optimize workforce allocation.
+**Operation and Test:** Removed outliers and identified each worker’s maximum daily waybill processing volume, and consolidated order and workforce data to build a dashboard for continuous monitoring of profit performance.
+**Result:** Enabled dynamic workforce allocation, helping the company reduce monthly labor costs by nearly 30%.
+
 ### Obesity Level Prediction
 - detail 1
 - detail 2
@@ -51,3 +58,10 @@
 ### Winery Customer Analysis
 - detail 1
 - detail 2
+
+### Strategic Analysis - Syringe Startup
+UNeTech Institute | January 2023 - May 2023 
+**Background:** A startup client with a novel syringe design sought Seed funding and entry into medical and veterinary markets.
+**Action:** Led a team of five venture analysts in developing strategic plans through external and internal analysis, customer discovery, and multi-scenario financial modeling, providing insights to guide the client’s market entry strategy.
+**Operation and Test:** Developed a comprehensive report and presentation incorporating market entry opportunities, industry risk assessment, TAM/SAM/SOM segmentation, and multi-scenario revenue forecasts.
+**Result:** Identified the invention’s key strategic differentiators under a cost leadership approach, providing actionable insights that supported the client in successfully raising $200K in Seed Round funding.
