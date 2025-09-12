@@ -66,10 +66,18 @@ IM Global LLC | Jun 2025 - August 2025
 ### Strategic Analysis - Syringe Startup
 UNeTech Institute | January 2023 - May 2023 
 
-**Background:** A startup client with a novel syringe design sought Seed funding and entry into medical and veterinary markets.
+**Background:**  
+Collaborated with a medical device startup developing a novel syringe, aiming to raise Seed funding and enter the medical and veterinary markets.
 
-**Action:** Led a team of five venture analysts in developing strategic plans through external and internal analysis, customer discovery, and multi-scenario financial modeling, providing insights to guide the client’s market entry strategy.
+**Action:**  
+Led a team of five venture analysts to conduct strategic planning through internal/external analysis, customer discovery, and multi-scenario financial modeling.
 
-**Operation and Test:** Developed a comprehensive report and presentation incorporating market entry opportunities, industry risk assessment, TAM/SAM/SOM segmentation, and multi-scenario revenue forecasts.
+**Operation and Test:**  
+Created a comprehensive report and presentation covering:
+- Market entry strategies  
+- Industry and regulatory risk assessments  
+- TAM/SAM/SOM market segmentation  
+- Multi-scenario revenue projections
 
-**Result:** Identified the invention’s key strategic differentiators under a cost leadership approach, providing actionable insights that supported the client in successfully raising $200K in Seed Round funding.
+**Result:**  
+Identified key strategic differentiators under a cost-leadership approach, delivering actionable insights that directly contributed to the successful raise of $200K in Seed funding.
