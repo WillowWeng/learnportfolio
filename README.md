@@ -86,4 +86,4 @@ Created a comprehensive report and presentation covering:
 **Result:**  
 Identified key strategic differentiators under a cost-leadership approach, delivering actionable insights that directly contributed to the successful raise of $200K in Seed funding.
 
-https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/headshot_circle.png
+![PrecisionSyringe](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/precisionsyringe.jpg)
