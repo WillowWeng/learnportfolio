@@ -59,6 +59,8 @@ Cleaned data by removing outliers, identified each worker’s maximum daily proc
 **Result:**  
 Enabled dynamic workforce allocation, resulting in a nearly 30% reduction in monthly labor costs.
 
+![label](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/label.jpg)
+
 ### Obesity Level Prediction
 - detail 1
 - detail 2
