@@ -47,13 +47,17 @@
 ### Profitability Analysis of Waybill Attachment
 IM Global LLC | Jun 2025 - August 2025 
 
-**Background:** To cope with rising U.S. tariffs that caused customer attrition, a new Waybill Attachment service was launched. The Business Development Team asked to reduce operational costs, as the new business had not yet achieved satisfactory profitability.
+**Background:**  
+To address rising U.S. tariffs that led to customer attrition, a new Waybill Attachment service was launched. However, the service had yet to achieve satisfactory profitability. The Business Development Team requested a reduction in operational costs.
 
-**Action:** Built an ETL pipeline in Python to advance the data running efficiency, implemented a VBA-based CICO system to monitor workforce, and developed a Holt-Winters model to dynamically forecast monthly order volumes and optimize workforce allocation.
+**Action:**  
+Built an ETL pipeline in Python to enhance data processing efficiency, implemented a VBA-based CICO (Check-In/Check-Out) system to monitor workforce activity, and developed a Holt-Winters forecasting model to predict monthly order volumes and optimize workforce allocation.
 
-**Operation and Test:** Removed outliers and identified each worker’s maximum daily waybill processing volume, and consolidated order and workforce data to build a dashboard for continuous monitoring of profit performance.
+**Operation and Test:**  
+Cleaned data by removing outliers, identified each worker’s maximum daily processing capacity, and integrated order and workforce data into a real-time dashboard for continuous profit monitoring.
 
-**Result:** Enabled dynamic workforce allocation, helping the company reduce monthly labor costs by nearly 30%.
+**Result:**  
+Enabled dynamic workforce allocation, resulting in a nearly 30% reduction in monthly labor costs.
 
 ### Obesity Level Prediction
 - detail 1
@@ -74,10 +78,10 @@ Led a team of five venture analysts to conduct strategic planning through intern
 
 **Operation and Test:**  
 Created a comprehensive report and presentation covering:
-- Market entry strategies  
-- Industry and regulatory risk assessments  
-- TAM/SAM/SOM market segmentation  
-- Multi-scenario revenue projections
+- Market Entry Strategies  
+- Industry and Regulatory Risk Assessments  
+- TAM/SAM/SOM Market Segmentation  
+- Multi-scenario Financail Modeling
 
 **Result:**  
 Identified key strategic differentiators under a cost-leadership approach, delivering actionable insights that directly contributed to the successful raise of $200K in Seed funding.
