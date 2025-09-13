@@ -14,7 +14,7 @@
 
 ## Work Experience
 **Associated Operations Supervisor @ IM Global LLC (_December 2024- Present_)**
-- Optimized driver dispatch based on historical pickup records, boosting route efficiency and driving $1.6M+ monthly revenue.
+- Boosted pickup efficiency and gross margin 10%+ through data-driven dispatch optimization, sustaining $1.6M+ monthly revenue.
 -	Applied SQL and created Power BI dashboards to assess vendor performance based on delivery quality and lead time, identifying optimal solutions that ensured timely shipments to last-mile delivery providers and reduced customer wait times by 2 days.
 -	Aligned procurement with actual demand to reduce warehouse consumable costs by 15% by analyzing usage trends and inventory.
 -	Extracted workforce and order data from ERP system using Python, providing data-driven strategic insights to stakeholders to enhance profitability including cost allocation, operational time, congestion rate, etc. 
