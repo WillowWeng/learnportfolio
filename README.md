@@ -76,7 +76,7 @@ Multiple predictive models—linear regression, lasso, ridge, logistic regressio
 **Result**
 The CART model outperformed the others, achieving 78% accuracy, 77% precision, and 78% recall. Feature importance analysis indicated that age (15.4%), height (14.5%), frequency of vegetable consumption (12.5%), number of main meals (10.4%), and time spent using technological devices (8.9%) were the top five indicators influencing obesity.
 
-![obesity](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/opesity.png)
+![obesity](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/obesity.png)
 
 ### Winery Customer Analysis
 - detail 1
