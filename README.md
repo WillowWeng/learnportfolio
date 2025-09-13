@@ -45,7 +45,7 @@
 
 ## Selected Projects
 ### Profitability Analysis of Waybill Attachment
-IM Global LLC | Jun 2025 - August 2025 
+IM Global LLC | June 2025 - August 2025 
 
 **Background:**  
 To address rising U.S. tariffs that led to customer attrition, a new Waybill Attachment service was launched. However, the service had yet to achieve satisfactory profitability. The Business Development Team requested a reduction in operational costs.
@@ -62,8 +62,21 @@ Enabled dynamic workforce allocation, resulting in a nearly 30% reduction in mon
 ![label](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/label.jpg)
 
 ### Obesity Level Prediction
-- detail 1
-- detail 2
+Universtiy of Washington | January 2025 - March 2025 
+
+**Background**
+The project aimed to support obese individuals and healthcare organizations in understanding the primary causes of obesity. The study used health condition data collected from Mexico, Peru, and Colombia to identify influential factors and build predictive models.
+
+**Action**
+The team analyzed 2,111 records containing 16 health-related variables, cleaned the dataset, and conducted exploratory data analysis (EDA) to address missing values and fix outliers.
+
+**Operation & Test**
+Multiple predictive models—linear regression, lasso, ridge, logistic regression, and CART—were developed and compared based on their generalization ability. Model performance was evaluated using accuracy, precision, and recall.
+
+**Result**
+The CART model outperformed the others, achieving 78% accuracy, 77% precision, and 78% recall. Feature importance analysis indicated that age (15.4%), height (14.5%), frequency of vegetable consumption (12.5%), number of main meals (10.4%), and time spent using technological devices (8.9%) were the top five indicators influencing obesity.
+
+![obesity](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/opesity.png)
 
 ### Winery Customer Analysis
 - detail 1
