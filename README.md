@@ -92,6 +92,8 @@ Cleaned and merged data, performed EDA, built regression models, and segmented c
 **Result:** 
 Email marketing increased purchase frequency, winemaker calls converted casual visitors, and newsletter subscriptions required adjustment; insights enabled optimized marketing spend, targeted high-value segments, and improved customer retention and loyalty.
 
+![winery](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/Winery%20Analysis.png)
+
 ### Strategic Analysis - Syringe Startup
 UNeTech Institute | January 2023 - May 2023 
 
