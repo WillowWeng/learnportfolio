@@ -79,8 +79,18 @@ The CART model outperformed the others, achieving 78% accuracy, 77% precision, a
 ![obesity](https://raw.githubusercontent.com/WillowWeng/learnportfolio/main/img/obesity.png)
 
 ### Winery Customer Analysis
-- detail 1
-- detail 2
+
+**Background**
+The winery needed to identify which marketing channels—email, newsletter, or winemaker calls—most effectively drove purchases and which customer segments contributed most to long-term profitability.
+
+**Action:**
+Analyzed over 65,000 orders (2008–2010) using Python, R, and Tableau; applied regression modeling and RFM analysis to evaluate customer behavior and marketing impact.
+
+**Operation and Test:**  
+Cleaned and merged data, performed EDA, built regression models, and segmented customers by Recency, Frequency, and Monetary value; visualized results in Tableau dashboards.
+
+**Result:** 
+Email marketing increased purchase frequency, winemaker calls converted casual visitors, and newsletter subscriptions required adjustment; insights enabled optimized marketing spend, targeted high-value segments, and improved customer retention and loyalty.
 
 ### Strategic Analysis - Syringe Startup
 UNeTech Institute | January 2023 - May 2023 
