@@ -13,19 +13,19 @@
 - B.S., Business Administration | The University of Nebraska at Omaha (_December 2021_)
 
 ## Work Experience
-**Associated Operations Supervisor @ IM Global LLC (_December 2024- Present_)**
-- Boosted pickup efficiency and gross margin 10%+ through data-driven dispatch optimization, sustaining $1.6M+ monthly revenue.
+**Business Analyst @ IM Global LLC (_December 2024- Present_)**
+-	Assessed dispatch metrics, including pickup duration and associated costs, to uncover inefficiencies and cut waiting costs by 10%.
 -	Applied SQL and created Power BI dashboards to assess vendor performance based on delivery quality and lead time, identifying optimal solutions that ensured timely shipments to last-mile delivery providers and reduced customer wait times by 2 days.
--	Aligned procurement with actual demand to reduce warehouse consumable costs by 15% by analyzing usage trends and inventory.
--	Extracted workforce and order data from ERP system using Python, providing data-driven strategic insights to stakeholders to enhance profitability including cost allocation, operational time, congestion rate, etc. 
+-	Aligned consumable procurement with actual demand by leveraging machine learning algorithms (Time Series, XGBoost), EOQ, and Safety Stock to set optimal reorder points, keeping storage utilization below 5% and preventing stockouts.
+-	Optimized data entry, extraction, and reporting using Excel Macros, VBA, and Power Query, reducing manual work and errors. 
 
-**Marketing Analyst @ Verve AI (_August 2024 - January 2025_)**
+**Data Analyst - Digital Marketing @ Verve AI (_August 2024 - January 2025_)**
 -	Optimizes email marketing campaigns through A/B testing by refining content, achieving a 17% increase in click-through rates.
 -	Performs web scripting on social media sites such as LinkedIn, Instagram, Reddit, Pinterest, and TikTok and applied text analysis to backend user data in Python to understand customer preferences and demand that led to the acquisition of 1,000+ new users.
 -	Implements SEO strategies, including keyword research, on-page optimization, and backlink building through outreach and content partnerships, to optimize website content and increase organic traffic by 30%. 
 -	Uses SQL to extract and transform data, defining KPIs and creating Power BI dashboards to track business performance.
 
-**Financial Analyst @ The University of Washington (_June 2023 - May 2024_)**
+**Financial Data Analyst @ The University of Washington (_June 2023 - May 2024_)**
 -	Retrieved data from ERP system using SQL with 30% improved runtime efficiency to analyze financial metrics and identify risks.
 -	Leveraged advanced Excel functions (Pivot Table, VLOOKUP, Solver, etc.) to analyze historical data and generate appropriate financial forecasts and budget projections for 2024 under various scenarios in collaboration with cross-functional teams.
 -	Compiled GAAP-compliant financial statements and reports for FY24 and FY23 and worked with KPMG on the audit process.
